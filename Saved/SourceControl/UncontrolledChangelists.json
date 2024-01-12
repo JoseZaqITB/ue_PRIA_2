@@ -18,7 +18,8 @@
 				"D:/y2/PRIA_2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myPlayerController.uasset",
 				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myPlayerState.uasset",
-				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/UI/UI_InGame.uasset"
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/UI/UI_InGame.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myGameState.uasset"
 			]
 		}
 	]
