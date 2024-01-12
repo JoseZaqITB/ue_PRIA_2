@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/y2/PRIA_2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/SM_ChamferCube_Blueprint.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3F/C5QBC7THSZVZYRZ3QCW16Z.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Y0/UBBE95R486EY4LJLKNPBU0.uasset",
+				"D:/y2/PRIA_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QF/9I69O400O581TIX6B1Z1H6.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myGameMode.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myPlayerController.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/BP_myPlayerState.uasset",
+				"D:/y2/PRIA_2/Content/ThirdPerson/MINE/UI/UI_InGame.uasset"
+			]
+		}
+	]
+}
